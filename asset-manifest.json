@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gradient-game/static/css/main.f6b5e3e1.css",
+    "main.js": "/gradient-game/static/js/main.fc4139e4.js",
+    "static/js/787.f10783de.chunk.js": "/gradient-game/static/js/787.f10783de.chunk.js",
+    "index.html": "/gradient-game/index.html",
+    "main.f6b5e3e1.css.map": "/gradient-game/static/css/main.f6b5e3e1.css.map",
+    "main.fc4139e4.js.map": "/gradient-game/static/js/main.fc4139e4.js.map",
+    "787.f10783de.chunk.js.map": "/gradient-game/static/js/787.f10783de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6b5e3e1.css",
+    "static/js/main.fc4139e4.js"
+  ]
+}
